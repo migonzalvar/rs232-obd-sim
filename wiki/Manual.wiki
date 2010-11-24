@@ -18,7 +18,7 @@ Let´s do it work step by step.
   * Configure a virtual COM port pair so that you can connect your code development in one side of the virtual link, and this RS232-OBD-SIM in the other. For example, link virtual COM ports CNCA0 and CNCB0.
 
 *_SVN checkout_*
-  * Perform a checkout from the SNV in Downloads tab, and install it.
+  * Perform a checkout from the SVN in Downloads tab, and install it.
 
 *_Execute rs232-obd-sim_*
   * Run the simulator (COM port according to the previous COM configuration): 
