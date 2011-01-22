@@ -7,7 +7,7 @@ A quick-guide for the tool will be described below.
 
 This project implements a humble RS232-ELM327 device simulator based on OBD (On Board Diagnostics) protocol, useful to check code developments without having to afford an expensive physical Electronic Control Unit.
 
-For further aclarations on what we are working currently, check www.karmind.com
+For further information about what we are working currently, check www.karmind.com
 
 = Details =
 
