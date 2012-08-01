@@ -42,7 +42,7 @@ $ source env/bin/activate
 }}}
 
 
-4. The `magic` is to use socat to create a virtual port (kind of null modem) to connect the OBD application.
+4. The _magic_ is to use *socat* to create a virtual port (kind of null modem) to connect the OBD application.
 
 From other terminal:
 
@@ -60,4 +60,4 @@ Return to your original terminal and launch the simulator:
 }}}
 
 
-Now you can connect your OBD application (for example Karmind OBD app) to port /dev/pts/6.
+Now you can connect your OBD application (for example [http://code.google.com/p/karmind-obd-application/ Karmind OBD app]) to port /dev/pts/6.
