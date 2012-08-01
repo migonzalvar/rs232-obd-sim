@@ -4,13 +4,13 @@ This is a recipe to setup rs232-obd-sim.py on Linux.
 
 == Prerequisites ==
 
-It uses virtualenv to install an specific environment for the simulator.
+It uses [http://www.virtualenv.org virtualenv] to install an specific environment for the simulator.
 
 {{{
 $ sudo apt-get install python-virtualenv
 }}}
 
-It needs socat to establish a kind of null model betwen 2 pseudo terminals.
+It needs [http://www.dest-unreach.org/socat/doc/socat.html socat] to establish a kind of null model between 2 pseudo terminals.
 
 {{{
 $ sudo apt-get install socat
